@@ -1,0 +1,3 @@
+def greeting_python
+  puts "Hello, Python programmer!"
+end
